@@ -21,6 +21,10 @@ class Test(unittest.TestCase):
     def test_version(self):
         """版本V1"""
 
+    
+    def test_version2(self):
+        """版本V2"""
+
 
 
 
