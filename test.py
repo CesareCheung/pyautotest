@@ -19,7 +19,8 @@ class Test(unittest.TestCase):
 
     
     def test_version(self):
-        """版本回退"""
+        """版本V1"""
+
 
 
 
